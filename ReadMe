@@ -1,0 +1,17 @@
+Java based client For ChargeBee and MongoDB
+
+Dependencies:
+    ChargeBee latest Java library
+    MongoDB NoSQL database
+    Latest MongoDB Java Driver
+
+Key Points:
+    In the starting window you can provide the appropriate ChargeBee Site and 
+    the API key provided also from ChargeBee.
+
+    Java client need a valid installation of MongoDB listening for incoming
+    connections in the default port. Also it creates a database for testing
+    called testdb.
+
+    You can connect to a test site hosted by ChargeBee and retrieve the stored
+    data.
